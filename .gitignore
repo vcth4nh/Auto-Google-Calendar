@@ -1,0 +1,7 @@
+/venv
+/.idea
+/credentials.json
+/token.json
+/main.py
+/hust_cookie
+/settings.json
